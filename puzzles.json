@@ -1,0 +1,178 @@
+[
+  {
+    "title": "The Golgappa Puzzle",
+    "question": "I’m round and crunchy, I hold spicy water and khatta-meetha chaat. One bite and I’m gone. What am I?\n\nA) Samosa\nB) Dhokla\nC) Golgappa",
+    "answer": "C",
+    "hint": "Also called Pani Puri in Mumbai!",
+    "level": "easy",
+    "category": "Desi Riddle"
+  },
+  {
+    "title": "Rickshaw Race",
+    "question": "I have three wheels and make a lot of noise, painted with funny slogans, and I zig-zag through traffic. Who am I?\n\nA) Auto Rickshaw\nB) Tractor\nC) Bullet Bike",
+    "answer": "A",
+    "hint": "Yellow and black or green sometimes!",
+    "level": "easy",
+    "category": "Desi Riddle"
+  },
+  {
+    "title": "Lassi Logic",
+    "question": "I'm a cool Punjabi drink, white and thick, served in a big steel glass with malai. What am I?\n\nA) Lassi\nB) Chaas\nC) Cold Coffee",
+    "answer": "A",
+    "hint": "Dahi se banta hai!",
+    "level": "medium",
+    "category": "Desi Riddle"
+  },
+  {
+    "title": "Festival of Lights",
+    "question": "I light up the sky, come once a year, families gather, and crackers burst. What festival am I?\n\nA) Holi\nB) Diwali\nC) Eid",
+    "answer": "B",
+    "hint": "Rangoli and diyas decorate homes!",
+    "level": "easy",
+    "category": "Festive Specials"
+  },
+  {
+    "title": "Basanti's Dilemma",
+    "question": "Basanti was asked not to dance in front of whom?\n\nA) Police\nB) Villagers\nC) Dogs",
+    "answer": "C",
+    "hint": "Gabbar's famous dialogue!",
+    "level": "easy",
+    "category": "Bollywood Masala"
+  },
+  {
+    "title": "Naam Toh Suna Hoga",
+    "question": "Raj, Rahul, and Prem are favorite names of which film industry hero archetype?\n\nA) Salman Khan\nB) Aamir Khan\nC) Shah Rukh Khan",
+    "answer": "C",
+    "hint": "King of Romance!",
+    "level": "easy",
+    "category": "Bollywood Masala"
+  },
+  {
+    "title": "Dialogues Ka Baap",
+    "question": "“Mogambo khush hua” was said by which iconic villain?\n\nA) Shakaal\nB) Mogambo\nC) Kaancha Cheena",
+    "answer": "B",
+    "hint": "Amrish Puri played him!",
+    "level": "medium",
+    "category": "Bollywood Masala"
+  },
+  {
+    "title": "Aankhen Band Karna",
+    "question": "In which film does Aamir Khan teach kids that cheating is bad during exams?\n\nA) Dangal\nB) Taare Zameen Par\nC) 3 Idiots",
+    "answer": "B",
+    "hint": "Ishaan's art class!",
+    "level": "medium",
+    "category": "Bollywood Masala"
+  },
+  {
+    "title": "Kaho Naa Kya Hai?",
+    "question": "In which movie did Hrithik Roshan debut with a double role?\n\nA) Kaho Naa... Pyaar Hai\nB) Koi Mil Gaya\nC) Kabhi Khushi Kabhie Gham",
+    "answer": "A",
+    "hint": "Launch of a superstar!",
+    "level": "hard",
+    "category": "Bollywood Masala"
+  },
+  {
+    "title": "Zinda Hai!",
+    "question": "Complete the movie name: Tiger _______\n\nA) Zinda Hai\nB) Shroff Hai\nC) Ka Beta Hai",
+    "answer": "A",
+    "hint": "Salman Khan returns with action!",
+    "level": "hard",
+    "category": "Bollywood Masala"
+  },
+  {
+    "title": "Master Blaster",
+    "question": "Who is known as the ‘God of Cricket’ in India?\n\nA) Virat Kohli\nB) Kapil Dev\nC) Sachin Tendulkar",
+    "answer": "C",
+    "hint": "Number 10 Jersey!",
+    "level": "easy",
+    "category": "Cricket Trivia"
+  },
+  {
+    "title": "Helicopter Shot",
+    "question": "Which Indian captain popularized the Helicopter Shot?\n\nA) Rohit Sharma\nB) MS Dhoni\nC) Sourav Ganguly",
+    "answer": "B",
+    "hint": "Also called Captain Cool!",
+    "level": "easy",
+    "category": "Cricket Trivia"
+  },
+  {
+    "title": "World Cup Heroes",
+    "question": "India won its first Cricket World Cup in which year?\n\nA) 2003\nB) 1983\nC) 2011",
+    "answer": "B",
+    "hint": "Kapil Dev led the team!",
+    "level": "medium",
+    "category": "Cricket Trivia"
+  },
+  {
+    "title": "Super Over Drama",
+    "question": "Who bowled the Super Over for India against New Zealand in 2020?\n\nA) Jasprit Bumrah\nB) Mohammed Shami\nC) Bhuvneshwar Kumar",
+    "answer": "B",
+    "hint": "Fast bowler!",
+    "level": "medium",
+    "category": "Cricket Trivia"
+  },
+  {
+    "title": "Six Sixes",
+    "question": "Who hit six sixes in an over during the 2007 T20 World Cup?\n\nA) Rohit Sharma\nB) Virender Sehwag\nC) Yuvraj Singh",
+    "answer": "C",
+    "hint": "Against Stuart Broad!",
+    "level": "hard",
+    "category": "Cricket Trivia"
+  },
+  {
+    "title": "Fastest 50",
+    "question": "Who holds the record for fastest 50 in IPL history?\n\nA) KL Rahul\nB) Chris Gayle\nC) Rishabh Pant",
+    "answer": "A",
+    "hint": "In 14 balls!",
+    "level": "hard",
+    "category": "Cricket Trivia"
+  },
+  {
+    "title": "Color Me Crazy",
+    "question": "Which Indian festival involves throwing colored powders and dancing to dhol?\n\nA) Diwali\nB) Holi\nC) Raksha Bandhan",
+    "answer": "B",
+    "hint": "Bura na mano!",
+    "level": "easy",
+    "category": "Festive Specials"
+  },
+  {
+    "title": "Firecrackers Galore",
+    "question": "Which festival is known for diyas, sweets, and firecrackers?\n\nA) Diwali\nB) Lohri\nC) Baisakhi",
+    "answer": "A",
+    "hint": "Festival of Lights",
+    "level": "easy",
+    "category": "Festive Specials"
+  },
+  {
+    "title": "Chhath Vrat",
+    "question": "Which festival is mainly celebrated in Bihar and involves worshiping the sun?\n\nA) Makar Sankranti\nB) Pongal\nC) Chhath Puja",
+    "answer": "C",
+    "hint": "People stand in water!",
+    "level": "medium",
+    "category": "Festive Specials"
+  },
+  {
+    "title": "Biryani Alert",
+    "question": "Which festival ends Ramadan and is celebrated with delicious food?\n\nA) Eid\nB) Holi\nC) Onam",
+    "answer": "A",
+    "hint": "Eid Mubarak!",
+    "level": "medium",
+    "category": "Festive Specials"
+  },
+  {
+    "title": "Ganesha’s Day Out",
+    "question": "Which festival involves immersing Lord Ganesha idols in water?\n\nA) Janmashtami\nB) Ganesh Chaturthi\nC) Navratri",
+    "answer": "B",
+    "hint": "Modak lover!",
+    "level": "hard",
+    "category": "Festive Specials"
+  },
+  {
+    "title": "Victory of Good",
+    "question": "In Dussehra, which demon king is defeated by Lord Rama?\n\nA) Duryodhana\nB) Ravana\nC) Kumbhakaran",
+    "answer": "B",
+    "hint": "10 heads!",
+    "level": "hard",
+    "category": "Festive Specials"
+  }
+]
